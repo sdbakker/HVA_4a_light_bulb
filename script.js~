@@ -10,8 +10,6 @@ const getalVeld = document.querySelector("h1");
 const controleerKnop = document.querySelector("#controleer");
 const pElement = document.querySelector("#resultaat");
 
-console.log("extra");
-
 function updateGetalVeld(nieuw)
 {
     console.log("nieuw getal: " + nieuw);
